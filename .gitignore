@@ -1,0 +1,8 @@
+# Large video files
+*.mp4
+
+# OS files
+.DS_Store
+
+# Intermediate files
+gifs/*.mp4
